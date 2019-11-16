@@ -1,2 +1,2 @@
-# vala
+# Vala
 Vala Programming
